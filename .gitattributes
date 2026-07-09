@@ -1,3 +1,4 @@
+
 * text=auto
 
 *.blade.php diff=html
@@ -8,3 +9,5 @@
 
 /.github export-ignore
 CHANGELOG.md export-ignore
+# Auto detect text files and perform LF normalization
+* text=auto
